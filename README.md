@@ -8,6 +8,7 @@
 
 # Best Projects
 ### [Filter Mania](https://github.com/Gavriel770U/Filter-Mania)
+### [Rotating Triangles In x86 Assembly](https://github.com/Gavriel770U/Assembly-Rotating-Triangles)
 
 <hr>
 <details>
