@@ -17,7 +17,7 @@ ________________________________________________________________________________
 <details>
   <summary>GitHub Statistics...</summary>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gavriel770U&show_icons=true"/>
+    <img src="[https://github-readme-stats.vercel.app/api?username=Gavriel770U&show_icons=true](https://github-readme-stats.vercel.app/api?username=Gavriel770U&theme=tokyonight&show_icons=true)"/>
   </p>
 </details>
 </hr>
