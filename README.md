@@ -14,7 +14,6 @@ ________________________________________________________________________________
 ### [Rotating Triangles In x86 Assembly](https://github.com/Gavriel770U/Assembly-Rotating-Triangles)
 
 <hr>
-  <summary>GitHub Statistics...</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Gavriel770U&theme=tokyonight&show_icons=true"/>
   </p>
