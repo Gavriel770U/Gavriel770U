@@ -6,6 +6,9 @@
   </a>
 </p>
 
+# Best Projects
+### [Filter Mania](https://github.com/Gavriel770U/Filter-Mania)
+
 <hr>
 <details>
   <summary>GitHub Statistics...</summary>
