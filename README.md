@@ -1,9 +1,8 @@
 # 💻Tech Stack
+## Programming Languages
 <p align="left">
-  Languages
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,gitlab,c,java,python,cpp,sqlite,selenium"/> </br>
-     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,stackoverflow,replit,processing,discord,bots,md,linux"/>
+    <img src="https://skillicons.dev/icons?i=c,java,python,cpp,sqlite"/> </br>
   </a>
 </p>
 
