@@ -6,6 +6,20 @@
   </a>
 </p>
 
+## Software And Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,md,linux"/> </br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,discord,bots,processing,stackoverflow"/> </br>
+  </a>
+</p>
+
+## Frameworks
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=selenium"/> </br>
+  </a>
+</p>
 ______________________________________________________________________________________________________________________________
 
 # Best Projects
