@@ -1,7 +1,7 @@
 # 💻Tech Stack
 <p align="left">
+  Languages
   <a href="https://skillicons.dev">
-    ## Languages
     <img src="https://skillicons.dev/icons?i=github,git,gitlab,c,java,python,cpp,sqlite,selenium"/> </br>
      <img src="https://skillicons.dev/icons?i=vscode,visualstudio,stackoverflow,replit,processing,discord,bots,md,linux"/>
   </a>
