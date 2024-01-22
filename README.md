@@ -34,8 +34,11 @@ ________________________________________________________________________________
   </p>
 </hr>
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriel770U&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+<hr>
+  <p align="center">
+    ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriel770U&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+  </p>
+</hr>
 
 ______________________________________________________________________________________________________________________________
 
