@@ -30,7 +30,7 @@ ________________________________________________________________________________
 
 <hr>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gavriel770U&theme=tokyonight&show_icons=true&include_all_commits=false&count_private=true"/> </br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gavriel770U&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true"/> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavriel770U&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"/>
   </p>
 </hr>
