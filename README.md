@@ -2,15 +2,15 @@
 ## Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,cpp,sqlite"/> </br>
+    <img src="https://skillicons.dev/icons?i=c,java,python,cpp,sqlite,cs,ruby"/> </br>
   </a>
 </p>
 
 ## Software And Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,md,linux"/> </br>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,discord,bots,processing,stackoverflow"/> </br>
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,md,windows,linux,mint"/> </br>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vscodium,discord,bots,bash,processing,stackoverflow"/> </br>
   </a>
 </p>
 
