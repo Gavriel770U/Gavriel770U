@@ -44,4 +44,4 @@ ________________________________________________________________________________
 ![image](https://github.com/Gavriel770U/Gavriel770U/assets/71229809/df2766e4-e5f4-47f0-a8be-457ac0736463)
 ![image](https://github.com/Gavriel770U/Gavriel770U/assets/71229809/cb1ae221-1d77-48e4-951d-643bd5b981d5)
 
-
+[![](https://visitcount.itsvg.in/api?id=Gavriel770U&icon=0&color=0)](https://visitcount.itsvg.in)
